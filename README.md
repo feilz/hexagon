@@ -1,7 +1,7 @@
 # hexagon
 A school project, where we built a hexagon out of wood, and circulated led-lights around the edges.
 
-The application uses the Adafruit_NeoPixel library to control the lights.
+The application uses the Adafruit_NeoPixel library to control the lights. You can download the library at https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library-installation
 
 The led strips are of the WS2812b model, where each light is individually programmable.
 
